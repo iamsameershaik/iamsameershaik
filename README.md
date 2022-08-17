@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @iamsameershaik
-- 👀 I’m interested in Ethical Hacking and Database Management
-- 🌱 I’m currently learning Computer Science and Engineering at AIET.
-- 💞️ I’m looking to collaborate on Ethical Hacking and Database Management work. Also interested in Web Development.
-- 📫 How to reach me : /LinkedIn/iamsameersaik
+![Github Banner](https://user-images.githubusercontent.com/73685640/185144667-d0581760-0e3d-4cdd-8a2a-2b442ad77753.png)
 
 <!---
 iamsameershaik/iamsameershaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
