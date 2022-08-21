@@ -1,7 +1,7 @@
-![Github Banner](https://user-images.githubusercontent.com/73685640/185144667-d0581760-0e3d-4cdd-8a2a-2b442ad77753.png)
+![Github Banner01](https://user-images.githubusercontent.com/73685640/185807913-5f099c13-72a3-4669-b709-6d53314896b9.png)
 
-## 👋Hello there!
-I am a Full Stack Web Developerand I drink coffee.
+## 👋Hello World!
+I'm a Full Stack Web Developer who is working on making people's lives simple through code.
 
 ## 🤝Reach out to me,
 - 🛸LinkedIn : [iamsameershaik](https://www.linkedin.com/in/iamsameershaik/ "LinkedIn")
