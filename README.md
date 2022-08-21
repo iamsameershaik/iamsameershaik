@@ -1,6 +1,6 @@
 ![Github Banner01](https://user-images.githubusercontent.com/73685640/185807913-5f099c13-72a3-4669-b709-6d53314896b9.png)
 
-## 👋Hello World!
+# 👋Hello World!
 I'm a Full Stack Web Developer who is working on making people's lives simple through code.
 
 ## 🤝Reach out to me,
