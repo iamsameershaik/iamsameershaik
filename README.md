@@ -144,21 +144,21 @@ Capabilities
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsameershaik&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsameershaik&layout=compact)
 
 ---
 
 # 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsameershaik)
 
 ---
 
 # 👀 Visitors
 
-![Visitor Count](https://profile-counter.glitch.me/YOURUSERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/iamsameershaik/count.svg)
 
 ---
 
