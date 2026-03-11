@@ -122,15 +122,7 @@ Business question:
 
 Architecture
 
-Raw Sales Data
-↓
-Python ETL Pipelines
-↓
-SQL Data Warehouse
-↓
-Power BI Semantic Model
-↓
-Operational KPI Dashboards
+Raw Sales Data → Python ETL Pipelines → SQL Data Warehouse → Power BI Semantic Model → Operational KPI Dashboards
 
 
 Capabilities
