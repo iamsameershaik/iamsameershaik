@@ -1,12 +1,12 @@
 # Sameer Shaik
 
-**Data Analyst & Analytics Engineer** | Cardiff, UK | [LinkedIn](https://linkedin.com/in/iamsameershaik) | [Portfolio](https://iamsameershaik.netlify.app)
+**Data & AI Analytics Engineer** | Cardiff, UK | [LinkedIn](https://linkedin.com/in/iamsameershaik) | [Portfolio](https://iamsameershaik.netlify.app)
 
 ---
 
 ## The Story
 
-I work across three continents—Kuwait, India, and the UK—and that's shaped how I solve problems: I see operations from multiple angles, move fast in ambiguity, and build systems that scale across fragmented data.
+I work across three continents - Kuwait, India, and the UK - and that's shaped how I solve problems: I see operations from multiple angles, move fast in ambiguity, and build systems that scale across fragmented data.
 
 Right now, I'm hunting for **Data Analyst**, **Power BI Developer**, or **Agentic/GenAI Engineer** roles (contract or permanent) while shipping freelance projects and actively building in public on LinkedIn.
 
@@ -19,12 +19,12 @@ Right now, I'm hunting for **Data Analyst**, **Power BI Developer**, or **Agenti
 ### SurveyAI — Lead Engineer
 **Taurgo × Cardiff University AI Hackathon 2026** | 48-hour ship to production
 
-Built a **property defect analysis system** that turns survey photos + text into structured AI-extracted insights using Claude Sonnet 4, React 18, and TypeScript. Shipped live with a team of five; handled full-stack architecture decisions under time pressure.
+Built a **property defect analysis system** that turns survey photos + text into structured AI-extracted insights using Claude Sonnet 4, Amazon Nova Pro, React 18, and TypeScript. Shipped live with a team of five; handled full-stack architecture decisions under time pressure.
 
 **Why it matters:** Demonstrates ability to ship AI-powered systems fast, make architectural calls in ambiguity, and translate business problems into code.
 
 - **Live:** [surveyaixtaurgo.netlify.app](https://surveyaixtaurgo.netlify.app)
-- **Built with:** React 18 · TypeScript · Claude Sonnet 4 · Netlify
+- **Built with:** React 18 · TypeScript · Claude Sonnet 4 · Amazon Nova Pro · Netlify
 - [See the engineering decisions & portfolio copy](https://iamsameershaik.netlify.app)
 
 ---
@@ -64,7 +64,7 @@ Both shipped with: GitHub repo · comprehensive documentation · architectural d
 **BI & Dashboarding:** Power BI (semantic models, DAX, best practices) · Grafana · Prometheus  
 **Data Architecture:** ETL pipelines · REST APIs · SQL data modeling · semantic layer design  
 **Web:** React 18 · TypeScript · Tailwind CSS · Netlify deployment  
-**Credentials:** Microsoft Certified Data Analyst · MSc Data Science & Analytics (Cardiff University)
+**Credentials:** Microsoft Certified Data Analyst · MSc Data Science & Analytics Merit (Cardiff University)
 
 ---
 
@@ -74,11 +74,11 @@ Both shipped with: GitHub repo · comprehensive documentation · architectural d
 
 2. **Commercial consequence first.** Every system I build answers "what decision does this enable?" before "how do we visualize it?"
 
-3. **Ruthless clarity on frameworks.** Job applications, cover letters, README files—I apply BLUF, Pyramid Principle, and CAR frameworks. No fluff, maximum signal.
+3. **Ruthless clarity on frameworks.** I apply BLUF, Pyramid Principle, and CAR frameworks. No fluff, maximum signal.
 
 4. **Shipping velocity.** SurveyAI proof: ambitious scope, tight deadline, production quality. I move fast without breaking things.
 
-5. **Public credibility.** Building in public on LinkedIn (Proof of Work + Sharp Takes). CV overhaul discipline (v7.2, 94/100). Consistent, repeatable process for hiring materials.
+5. **Public credibility.** Building in public on LinkedIn (Proof of Work + Sharp Takes). Overhaul discipline. Consistent, repeatable process for high ROI impact.
 
 ---
 
