@@ -1,159 +1,104 @@
-<!-- HERO -->
+# Sameer Shaik
 
-<h1 align="center">Sameer Shaik</h1>
-
-<p align="center">
-Microsoft Certified Data Analyst · AI Analytics Systems Engineer
-</p>
-
-<p align="center">
-Turning fragmented data into automated reporting systems businesses trust.
-</p>
-
-<p align="center">
-📍 Cardiff, UK
-</p>
+**Data Analyst & Analytics Engineer** | Cardiff, UK | [LinkedIn](https://linkedin.com/in/iamsameershaik) | [Portfolio](https://iamsameershaik.netlify.app)
 
 ---
 
-# 👋 Hi, I'm Sameer
+## The Story
 
-I design and build **production-grade analytics systems** that transform messy operational data into reliable decision infrastructure.
+I work across three continents—Kuwait, India, and the UK—and that's shaped how I solve problems: I see operations from multiple angles, move fast in ambiguity, and build systems that scale across fragmented data.
 
-My focus is not just dashboards — but **complete analytics pipelines**:
-Data Sources → ETL Pipelines → Data Models → KPI Systems → Decision Dashboards
+Right now, I'm hunting for **Data Analyst**, **Power BI Developer**, or **Agentic/GenAI Engineer** roles (contract or permanent) while shipping freelance projects and actively building in public on LinkedIn.
 
-Recent outcomes from my work:
-
-• Eliminated **30+ hours/week of manual reporting**  
-• Built analytics systems used across **10k+ monthly transactions**  
-• Delivered production inventory analytics platforms for operational teams  
+**What I do:** Turn messy operational data into decision infrastructure that teams actually use—not dashboards that sit in folders.
 
 ---
 
-# 🧠 Core Expertise
+## Recent Work
 
-### Analytics Engineering
-- SQL data modelling
-- ETL pipeline design
-- KPI system architecture
-- semantic modelling
+### SurveyAI — Lead Engineer
+**Taurgo × Cardiff University AI Hackathon 2026** | 48-hour ship to production
 
-### Data Analysis
-- statistical exploration
-- data cleaning
-- exploratory modelling
-- operational analytics
+Built a **property defect analysis system** that turns survey photos + text into structured AI-extracted insights using Claude Sonnet 4, React 18, and TypeScript. Shipped live with a team of five; handled full-stack architecture decisions under time pressure.
 
-### Decision Infrastructure
-- Power BI dashboards
-- Grafana monitoring systems
-- automated reporting pipelines
+**Why it matters:** Demonstrates ability to ship AI-powered systems fast, make architectural calls in ambiguity, and translate business problems into code.
+
+- **Live:** [surveyaixtaurgo.netlify.app](https://surveyaixtaurgo.netlify.app)
+- **Built with:** React 18 · TypeScript · Claude Sonnet 4 · Netlify
+- [See the engineering decisions & portfolio copy](https://iamsameershaik.netlify.app)
 
 ---
 
-# 🧰 Tech Stack
+### Sales & Inventory Analytics Platforms
+**Falcon Mind (Freelance)** | Multiple SMBs across retail, services, education
 
-### Languages
+End-to-end analytics stacks for operations teams: data ingestion → ETL pipelines → semantic models → KPI dashboards.
 
-![Python](https://img.shields.io/badge/Python-Data%20Engineering-blue)
-![SQL](https://img.shields.io/badge/SQL-Data%20Modeling-orange)
+**Delivered:**
+- **30+ hours/week** of manual reporting eliminated (single client)
+- Dashboards used by 6+ executives tracking **$10K+/month transaction flows**
+- Inventory platform built as single source of truth for stock tracking (Mesuro Ltd)
+- Grafana + Prometheus monitoring dashboards for operational visibility
 
----
-
-### Data Processing
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-lightgrey)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightgrey)
-![ScikitLearn](https://img.shields.io/badge/Scikit--learn-ML%20Exploration-lightgrey)
+**Architecture pattern:** Raw data → Python/SQL pipelines → Power BI semantic models → decision dashboards
 
 ---
 
-### Business Intelligence
+### Power BI Portfolio Projects
+Fully documented, GitHub-ready analytics projects built to hiring rubric standards:
 
-![PowerBI](https://img.shields.io/badge/Power%20BI-DAX%20%7C%20Semantic%20Models-yellow)
-![Grafana](https://img.shields.io/badge/Grafana-Dashboards-orange)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-red)
+**Sales Performance Command Center** | UCI Online Retail II  
+18 DAX measures, 5 report pages, star schema, KPI glossary, README
 
----
+**Customer Retention & Churn Analytics** | IBM Telco  
+15 DAX measures, CLV proxy, revenue at risk, data dictionary
 
-### Data Engineering
-
-![ETL](https://img.shields.io/badge/ETL-Pipelines-blue)
-![REST](https://img.shields.io/badge/REST%20APIs-Integration-green)
-![Flask](https://img.shields.io/badge/Flask-Internal%20Tools-lightgrey)
+Both shipped with: GitHub repo · comprehensive documentation · architectural diagrams
 
 ---
 
-# 💼 Professional Work
+## Toolkit
 
-## Freelance Data Analyst — Falcon Mind
-
-Sole architect of analytics systems for SMBs across retail, services, and education.
-
-Key work:
-
-• Built **end-to-end analytics platforms** integrating website, CRM, and booking data  
-• Automated reporting pipelines eliminating **30+ hours/week manual work**  
-• Designed dashboards used by 6+ executives to track revenue, conversion, and engagement across **$10K+/month interactions**  
+**Languages:** Python · SQL · DAX  
+**Data Processing:** Pandas · NumPy · Scikit-learn  
+**BI & Dashboarding:** Power BI (semantic models, DAX, best practices) · Grafana · Prometheus  
+**Data Architecture:** ETL pipelines · REST APIs · SQL data modeling · semantic layer design  
+**Web:** React 18 · TypeScript · Tailwind CSS · Netlify deployment  
+**Credentials:** Microsoft Certified Data Analyst · MSc Data Science & Analytics (Cardiff University)
 
 ---
 
-## Data Analyst & Full Stack Developer  
-Mesuro Ltd / Focus Microwaves
+## What's Different About My Approach
 
-Delivered a **production inventory analytics system** used as the single source of truth for stock tracking.
+1. **End-to-end ownership.** I don't stop at dashboards. I own the full chain: source data → transformation → modeling → delivery → iteration.
 
-Key results:
+2. **Commercial consequence first.** Every system I build answers "what decision does this enable?" before "how do we visualize it?"
 
-• Improved reporting accuracy by **~30%**  
-• Rebuilt ETL pipelines for fragmented operational data  
-• Built monitoring dashboards using **Grafana + Prometheus**
+3. **Ruthless clarity on frameworks.** Job applications, cover letters, README files—I apply BLUF, Pyramid Principle, and CAR frameworks. No fluff, maximum signal.
 
----
+4. **Shipping velocity.** SurveyAI proof: ambitious scope, tight deadline, production quality. I move fast without breaking things.
 
-# 🚀 Featured Project
-
-## Retail Operations Analytics Platform
-
-Business question:
-
-> Which UK retail stores are most at risk of stock-out and where is revenue being lost?
-
-Architecture
-
-Raw Sales Data → Python ETL Pipelines → SQL Data Warehouse → Power BI Semantic Model → Operational KPI Dashboards
-
-
-Capabilities
-
-• sales performance analysis  
-• inventory movement tracking  
-• store-level KPIs  
-• stock-out risk detection  
+5. **Public credibility.** Building in public on LinkedIn (Proof of Work + Sharp Takes). CV overhaul discipline (v7.2, 94/100). Consistent, repeatable process for hiring materials.
 
 ---
 
-# 🌐 Connect With Me
+## Currently Exploring
 
-Portfolio  
-https://iamsameershaik.netlify.app
-
-LinkedIn  
-https://linkedin.com/in/iamsameershaik
-
-Email  
-sameershaik200016@gmail.com
+- Production analytics stacks at scale
+- Agentic AI systems & analytics automation
+- Freelance + contract analytics engineering roles
+- Companies building in the AI/analytics intersection
 
 ---
 
-# 🧭 Current Focus
+## Let's Talk
 
-• production analytics stacks  
-• automated ETL pipelines  
-• operational dashboards  
-• AI-assisted analytics systems  
+**If you're hiring:** [DM on LinkedIn](https://linkedin.com/in/iamsameershaik) or [email](mailto:sameershaik200016@gmail.com). I move fast on good opportunities.
+
+**If you want to collaborate:** Same channels. I'm open to interesting projects.
+
+**If you're building something adjacent to SurveyAI:** Genuinely curious. [Reach out.](mailto:sameershaik200016@gmail.com)
 
 ---
 
-⭐ If you find my work interesting, feel free to explore my repositories.
+*Repositories below showcase the work described above. Some are portfolio projects built to hiring standard; others are experiments. All are shipping-ready.*
