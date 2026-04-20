@@ -38,7 +38,7 @@ End-to-end analytics stacks for operations teams: data ingestion → ETL pipelin
 - **30+ hours/week** of manual reporting eliminated (single client)
 - Dashboards used by 6+ executives tracking **$10K+/month transaction flows**
 - Inventory platform built as single source of truth for stock tracking (Mesuro Ltd)
-- Grafana + Prometheus monitoring dashboards for operational visibility
+- Grafana + Prometheus monitoring dashboards for operational visibility (Mesuro Ltd)
 
 **Architecture pattern:** Raw data → Python/SQL pipelines → Power BI semantic models → decision dashboards
 
