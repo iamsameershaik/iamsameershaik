@@ -23,11 +23,11 @@ I design and deploy **LLM‑powered automation systems** and **full‑stack AI a
 Built LLM vision defect analysis that generates RICS‑aligned reports in **<30 seconds** from unlimited photos. Proved AI defect analysis to four PropTech founders via live demo, earning direct product validation. Secured UK jurisdiction compliance by migrating Claude to AWS Bedrock (eu‑west‑2).  
 **Live:** [surveyaixtaurgo.netlify.app](https://surveyaixtaurgo.netlify.app)
 
-### [Falcon Mind](https://github.com/iamsameershaik/falconmind) *(new repo – coming soon)* — AI Solutions Engineer (Founder)  
-*Multi‑country production deployment | Voiceflow · Bland AI · Make · Airtable · Calendly*
+### [Falcon Mind](https://github.com/iamsameershaik/falcon-mind) — AI Solutions Engineer (Founder)  
+*Multi‑country production deployment*
 
 Deployed LLM‑powered customer automation across UK, India, and Kuwait, achieving **~80% query deflection** and 24/7 real‑time response. **Reduced manual workload by 10+ hours/week**. Maintained **99.9% uptime** across three pilots.  
-*(Full case study + architecture diagrams available in repo.)*
+**Live:** [falconmind.solutions](https://falconmind.solutions/)
 
 ### Mesuro / Focus Microwaves — Full‑Stack Automation Engineer (Dissertation, Distinction)  
 *Python · SQL · Grafana · Prometheus*
