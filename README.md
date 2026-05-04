@@ -29,7 +29,7 @@ Built LLM vision defect analysis that generates RICS‑aligned reports in **<30 
 Deployed LLM‑powered customer automation across UK, India, and Kuwait, achieving **~80% query deflection** and 24/7 real‑time response. **Reduced manual workload by 10+ hours/week**. Maintained **99.9% uptime** across three pilots.  
 **Live:** [falconmind.solutions](https://falconmind.solutions/)
 
-### Mesuro / Focus Microwaves — Full‑Stack Automation Engineer (Dissertation, Distinction)  
+### Mesuro Ltd. / Focus Microwaves — Full‑Stack Automation Engineer (Dissertation, Distinction)  
 *Python · SQL · Grafana · Prometheus*
 
 **Cut manual inventory review from 4 hours to <1 hour** by building a solo full‑stack ETL ecosystem, saving **3+ hours per audit cycle**. Delivered audit‑ready workbooks with weekly stakeholder reviews.
