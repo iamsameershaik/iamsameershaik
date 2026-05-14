@@ -48,7 +48,7 @@ Deployed LLM‑powered customer automation across UK, India, and Kuwait, achievi
 
 ## Currently Targeting
 
-Junior–mid level **AI Solutions Engineer** roles in **PropTech, automation, and AI SaaS startups** — where I can ship production AI that solves real operational problems under uncertainty.
+**AI Solutions Engineer** roles in **startups and scale-ups** — where I can ship production AI that solves real operational problems under uncertainty.
 
 📬 [DM on LinkedIn](https://linkedin.com/in/iamsameershaik) or [email](mailto:sameershaik200016@gmail.com)  
 ⚡ **Fastest way to see my work:** [SurveyAI live demo](https://surveyaixtaurgo.netlify.app) — no login, no waiting.
